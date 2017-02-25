@@ -1,0 +1,6 @@
+Assignment-2
+------------
+
+1. Partition the given data set as :30/70, 40/60, 50/50, 60/40 and 70/30 percent sizes to train the "Regression Model". Report E_in and E_out for each partition.Analyze how the error is behaving with different size of training data. Plot the error curves for different training sizes. 
+
+2. Also apply a non-linear transformations and see if that improves or worsens the results. Polynomial kernel of degree 2.

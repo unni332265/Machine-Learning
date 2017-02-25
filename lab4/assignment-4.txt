@@ -1,0 +1,7 @@
+Assignment-4
+------------
+
+1. Use previous winequality data set to find out E_in and E_out (mean squared error) using the partitions and plot for regression model. 
+
+2. Initialise linear model/perceptron using these weights as initial weights and do perceptron learning iterations. Plot E_in and E_out.
+

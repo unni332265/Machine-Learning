@@ -1,0 +1,11 @@
+Assignment-3
+------------
+
+1. Implement the Regression model for the given data. 
+
+2. Use the weight vector which you have calculated using regression model to initializ the weight and implement Linear classification for the same data set.
+
+3. Shuffle the training data (using a common seed, 1234) and then prepare train-test partitions according to (30/70, 40/60, 50/50, 60/40 and 70/30) percent sizes. Train on train partition and test on both. Report E_in and E_out for each partition.
+
+
+Note: You need to submit all your assignment till 14/02/2017 on google classroom in zip file. It must have Code for all the assignment as well as output for the same.
